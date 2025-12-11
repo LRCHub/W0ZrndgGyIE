@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "チルドレン",
+  "base_artist": "BIN",
+  "createdAt": "2025-12-11T23:47:17.384384Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チルドレン・オブ・ザ・リヴォリューション",
+      "artist": "T. Rex",
+      "has_synced": false,
+      "path": "select/01_チルドレン・オブ・ザ・リヴォリューション_T._Rex.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "よあけのみち (feat. アントワープ・チルドレン・コーラス)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/02_よあけのみち_(feat._アントワープ・チルドレン・コーラス)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Star Children [スター・チルドレン]",
+      "artist": "Takajin Yashiki",
+      "has_synced": true,
+      "path": "select/03_Star_Children_[スター・チルドレン]_Takajin_Yashiki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アーティフィシャル・チルドレン",
+      "artist": "IOSYS",
+      "has_synced": false,
+      "path": "select/04_アーティフィシャル・チルドレン_IOSYS.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アーティフィシャル・チルドレン （カラオケVer）",
+      "artist": "ARM",
+      "has_synced": false,
+      "path": "select/05_アーティフィシャル・チルドレン_(カラオケVer)_ARM.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スター・チルドレン",
+      "artist": "VENUES",
+      "has_synced": false,
+      "path": "select/06_スター・チルドレン_VENUES.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "チルドレン",
+      "artist": "BIN",
+      "has_synced": true,
+      "path": "select/07_チルドレン_BIN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "チルドレン・オブ・デカダンス",
+      "artist": "Children of Bodom",
+      "has_synced": true,
+      "path": "select/08_チルドレン・オブ・デカダンス_Children_of_Bodom.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アーティフィシャル?チルドレン",
+      "artist": "IOSYS",
+      "has_synced": false,
+      "path": "select/09_アーティフィシャル_チルドレン_IOSYS.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アーティフィシャル・チルドレン",
+      "artist": "ARM feat. miko",
+      "has_synced": false,
+      "path": "select/10_アーティフィシャル・チルドレン_ARM_feat._miko.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アーティフィシャル.チルドレン",
+      "artist": "IOSYS",
+      "has_synced": false,
+      "path": "select/11_アーティフィシャル.チルドレン_IOSYS.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "スター・チルドレン",
+      "artist": "やしきたかじん",
+      "has_synced": false,
+      "path": "select/12_スター・チルドレン_やしきたかじん.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チルドレン",
+      "artist": "BIN",
+      "has_synced": false,
+      "path": "select/pl_01_チルドレン_BIN.txt"
+    }
+  ]
+}
